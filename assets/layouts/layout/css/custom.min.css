@@ -1,0 +1,11 @@
+.loadinggif
+{
+    background:
+    url('../img/ajax-loader.gif')
+    no-repeat
+    right center;
+}
+.inline-radio-hight
+{
+    height: 15px !important;
+}
